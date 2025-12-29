@@ -1,0 +1,21 @@
+.contact-section{
+    background-color: #41644A;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.heading{
+    color: #ffa366;
+    margin: 0;
+    text-align: center;
+    padding-top: 20px;
+    font-weight: bold; 
+}
+
+.contact-heading{
+    color: white;
+}
+
+.contact-para{
+    color: #969696;
+}

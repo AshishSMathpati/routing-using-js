@@ -1,0 +1,19 @@
+.about-section{
+    background-color: #EBE1D1;
+    min-height: 100vh;
+    margin: 0;
+}
+.heading{
+    color: #668cff;
+    margin: 0;
+    text-align: center;
+    padding-top: 20px;
+}
+
+h1{
+    color: rgb(18, 18, 18);
+}
+
+p{
+    color: #000000;
+}

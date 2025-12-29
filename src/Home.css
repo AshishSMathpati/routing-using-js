@@ -1,0 +1,20 @@
+.home-container{
+    background-color: #071112;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.heading{
+    color: #33ffcc;
+    margin: 0;
+    text-align: center;
+    padding-top: 20px;
+    
+}
+.home-heading{
+    color: white;
+}
+
+.home-para{
+    color: #969696;
+}
